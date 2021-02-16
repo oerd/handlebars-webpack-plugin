@@ -50,6 +50,6 @@
     "verbose": true
   },
   "peerDependencies": {
-    "html-webpack-plugin": "^4.4.1"
+    "html-webpack-plugin": "^5.1.0"
   }
 }
